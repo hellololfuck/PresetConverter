@@ -1,3 +1,5 @@
+before we start, I want to give a special THANK YOU to https://github.com/lostumutz
+
 # PresetConverter
 
 Convert NVIDIA Ansel / Freestyle presets to ReShade, and ReShade presets back to
